@@ -11,7 +11,12 @@ O projeto visa atender a MarketingAI, uma cadeia de shoppings, para realização
 - **requirements.txt**: Dependências do projeto.
 - **.gitignore**: Arquivos e diretórios ignorados pelo Git.
 - **LICENSE**: Licença do projeto.
-- **README.md**: Documentação do projeto 
+- **README.md**: Documentação do projeto
+
+## Upload de arquivo - Problema
+
+Devido ao streamlit só aceitar arquivos de até 200 megas e o arquivo original ser maior, fiz o upload do arquivo para baixá-lo já com retirada de sales = 0  e mean_price = sem dados
+https://relacoesinstitucionais.com.br/Fotos/Temp/dados_frame_completo.csv
 
 ## Requisitos
 São as bibliotecas: streamlit, pandas, scikit-learn, matplotlib, seaborn, joblib, Prophet, plotly_express e requests
