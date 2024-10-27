@@ -18,6 +18,9 @@ O projeto visa atender a MarketingAI, uma cadeia de shoppings, para realização
 Devido ao streamlit só aceitar arquivos de até 200 megas e o arquivo original ser maior, fiz o upload do arquivo para baixá-lo já com retirada de sales = 0  e mean_price = sem dados
 https://relacoesinstitucionais.com.br/Fotos/Temp/dados_frame_completo.csv
 
+Por uma questão de reorganização de pastas, refiz meu repositório. Mas o original pode ser encontrado em:
+https://github.com/cordado/marketingai-sales-prediction_original/tree/main
+
 ## Requisitos
 São as bibliotecas: streamlit, pandas, scikit-learn, matplotlib, seaborn, joblib, Prophet, plotly_express e requests
 
