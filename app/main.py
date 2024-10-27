@@ -14,9 +14,10 @@ from sklearn.decomposition import PCA
 
 url = 'https://github.com/cordado/marketingai-sales-prediction/raw/main/models/kmeans_treinado.pkl'
 
-kmeans_TREINADO = joblib.load('kmeans_treinado.pkl')
 response = requests.get(url)
-open('kmeans_treinado.pkl', 'wb').write(response.content)
+with open('kmeans_treinado.pkl', 'wb') as file:
+    file.write(response.content)
+
 kmeans_TREINADO = joblib.load('kmeans_treinado.pkl')
 
 # TELA DE APRESENTAÇÃO
