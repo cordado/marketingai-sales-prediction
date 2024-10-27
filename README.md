@@ -6,7 +6,7 @@ O projeto visa atender a MarketingAI, uma cadeia de shoppings, para realização
 - **data/**: Diretório para dados.
 - **notebooks/**: Notebooks Jupyter para análise e desenvolvimento.
 - **models/**: Modelo pré-treinados
-- **tests/**: Testes automatizados.
+- **tests/**: Testes realizados
 - **app/**: Aplicação web.
 - **requirements.txt**: Dependências do projeto.
 - **.gitignore**: Arquivos e diretórios ignorados pelo Git.
