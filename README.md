@@ -37,9 +37,10 @@ O deploy foi realizado no link: https://marketingai-sales-prediction-9x97byrufce
 
 ## Funcionalidades
 
-Upload de Dados: Permite o upload de novos dados para análise.
-Visualização de Dados: Gráficos e tabelas para explorar os dados.
-Previsão de Vendas: Interface para gerar previsões de vendas com base nos dados fornecidos.
+- **Upload de Dados**: Permite o upload de novos dados para análise.
+- **Visualização de Dados**: Gráficos e tabelas para explorar os dados.
+- **Previsão de Vendas**: Interface para gerar previsões de vendas com base nos dados fornecidos.
+
 
 ## Autor
 
