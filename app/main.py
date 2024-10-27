@@ -12,7 +12,7 @@ from sklearn.decomposition import PCA
 
 # Carregar o algoritimo Kmeans já treinado
 
-url = 'https://github.com/cordado/teste/raw/main/kmeans_treinado.pkl'
+url = 'https://github.com/cordado/marketingai-sales-prediction/blob/main/models/kmeans_treinado.pkl'
 
 kmeans_TREINADO = joblib.load('kmeans_treinado.pkl')
 response = requests.get(url)
