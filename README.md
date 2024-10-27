@@ -2,7 +2,7 @@
 
 O projeto visa atender a MarketingAI, uma cadeia de shoppings, para realização de análises preditivas que resultem em aumento de vendas de produtos em suas diversas lojas.
 
-## Estrutura do Projeto
+## Estrutura do Repositório
 - **data/**: Diretório para dados.
 - **notebooks/**: Notebooks Jupyter para análise e desenvolvimento.
 - **models/**: Modelo pré-treinados
